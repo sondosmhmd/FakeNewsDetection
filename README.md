@@ -21,7 +21,7 @@ A machine learning system that classifies news articles as FAKE or REAL using Na
 | Logistic Regression (TF-IDF) | 91.40% |
 | Bi-LSTM (GloVe) | 91.55% |
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/sondosmhmd/FakeNewsDetection.git
 cd FakeNewsDetection
