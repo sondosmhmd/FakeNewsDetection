@@ -63,7 +63,6 @@ nltk.download('punkt')
 
 
 ###  4. Download GloVe embeddings
-bash
 wget https://nlp.stanford.edu/data/glove.6B.zip
 unzip glove.6B.zip
 
