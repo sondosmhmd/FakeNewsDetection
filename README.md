@@ -51,6 +51,7 @@ FakeNewsDetection/
 ```bash
 git clone https://github.com/sondosmhmd/FakeNewsDetection.git
 cd FakeNewsDetection
+```
 
 ### 2. Install dependencies
 pip install -r requirements.txt
