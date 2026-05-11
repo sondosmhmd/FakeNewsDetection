@@ -56,7 +56,7 @@ cd FakeNewsDetection
 ### 2. Install dependencies
 pip install -r requirements.txt
 
-###3. Download NLTK data
+### 3. Download NLTK data
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
